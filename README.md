@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Thanks for visiting. I hope you were able to use these contributions to help solve a problem. Good information is invaluable and can save hours of frustration. If the code was helpful, please star it or drop a comment. Thanks!
+
+[![Linkedin: josephspurrier](https://img.shields.io/badge/-josephspurrier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephspurrier/)](https://www.linkedin.com/in/josephspurrier/)
+==========
+
 <!--
 **josephspurrier/josephspurrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
