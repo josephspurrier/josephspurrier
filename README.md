@@ -11,7 +11,7 @@ A few repositories demonstrating different front-end frameworks:
 - [Mithril and Fusion.js](https://github.com/josephspurrier/mithril-fusion) - SSR with Mithril
 - [Vue in JavaScript](https://github.com/josephspurrier/govueapp) - sample notepad app
 - [React in TypeScript](https://github.com/josephspurrier/goreactapp) - sample notepad app
-- [Mantium in TypeScript](https://github.com/josephspurrier/mantium) - POC SPA in JavaScript/TypeScript
+- [Mantium in TypeScript](https://github.com/josephspurrier/mantium) - POC SPA library in JavaScript/TypeScript
 - [TypeScript Template](https://github.com/josephspurrier/typescript-template) - template for TypeScript, JSX, and Mantium
 
 [![Linkedin: josephspurrier](https://img.shields.io/badge/-josephspurrier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephspurrier/)](https://www.linkedin.com/in/josephspurrier/)
