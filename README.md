@@ -18,8 +18,6 @@ A few repositories demonstrating different front-end frameworks:
 
 ![Stats: josephspurrier](https://github-readme-stats.vercel.app/api?username=josephspurrier&show_icons=true&theme=dark&count_private=true)
 
-==========
-
 <!--
 **josephspurrier/josephspurrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
