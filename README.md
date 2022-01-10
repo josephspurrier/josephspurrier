@@ -15,6 +15,9 @@ A few repositories demonstrating different front-end frameworks:
 - [TypeScript Template](https://github.com/josephspurrier/typescript-template) - template for TypeScript, JSX, and Mantium
 
 [![Linkedin: josephspurrier](https://img.shields.io/badge/-josephspurrier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josephspurrier/)](https://www.linkedin.com/in/josephspurrier/)
+
+![Stats: josephspurrier](https://github-readme-stats.vercel.app/api?username=josephspurrier&show_icons=true&theme=dark&count_private=true)
+
 ==========
 
 <!--
