@@ -4,6 +4,7 @@ Thanks for visiting. I hope you were able to use these contributions to help sol
 
 A few repositories demonstrating different front-end frameworks:
 
+- [Go with HTMX](https://github.com/josephspurrier/gohtmxapp) - basic project scaffolding for an app
 - [SvelteKit in TypeScript](https://github.com/josephspurrier/sveltekitapp) - sample notepad app
 - [Mithril Template](https://github.com/josephspurrier/mithril-template) - template for Mithril with many other modern tools
 - [Mithril in TypeScript](https://github.com/josephspurrier/gomithriltsapp) - sample notepad app
